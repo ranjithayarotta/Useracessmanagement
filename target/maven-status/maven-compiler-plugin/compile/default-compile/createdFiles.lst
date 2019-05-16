@@ -1,0 +1,13 @@
+com/mindlabs/reportgenearator/service/QueryBuilder.class
+com/mindlabs/reportgenearator/controller/SlrReportController.class
+com/mindlabs/reportgenearator/dao/FetchDetailsFromAmlDb.class
+com/mindlabs/reportgenearator/model/LargeCashTransactions.class
+com/mindlabs/reportgenearator/controller/RiskProfilingController.class
+com/mindlabs/reportgenearator/dao/DataBaseConnection.class
+com/mindlabs/reportgenearator/ReportGeneratorApplication.class
+com/mindlabs/reportgenearator/model/RiskProfiling.class
+com/mindlabs/reportgenearator/service/XlsxCreateForLsr.class
+com/mindlabs/reportgenearator/service/XlsxCreateForRiskProfiling.class
+com/mindlabs/reportgenearator/model/SuspeciousTransaction.class
+com/mindlabs/reportgenearator/service/XlsxCreateForSlr.class
+com/mindlabs/reportgenearator/controller/LsrReportController.class
